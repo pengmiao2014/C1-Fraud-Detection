@@ -57,7 +57,7 @@ def find_best_threshold(model, costbenefit, X_train, X_test, y_train, y_test):
 
 cleaned_data_csv = 'cleaned_training_data.csv'
 
-target = 'churn'
+target = 'fraud_ind'
 
 
 def load_cleaned_data():
