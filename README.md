@@ -12,6 +12,6 @@ Python, R, Tableau, AWS, Logistic Regression, Desicion Tree, Random Forest, Onli
 2nd/100 place in terms of savings
 
 ### Model:
-First preprocess and construct velocity features, then training and choose model to maximize the savings based on given cost matrix.
+First preprocess and construct velocity features, then training and choose the optimal model to maximize the savings based on given cost matrix.
 
 
