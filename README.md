@@ -1,5 +1,5 @@
 # 2016 C1 Fraud Detection Modeling Competition 
-# (Python and R version)
+### (Python and R version)
 
 ### Goal: 
 Develop an optimal transaction fraud prevention strategy for credit card business. The goal is to minimize the total cost caused by approving a fraudulent transaction or declining a non-fraudulent transaction.
