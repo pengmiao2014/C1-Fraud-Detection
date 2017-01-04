@@ -16,7 +16,7 @@ from scoring import print_scores
 
 cleaned_data_csv = 'cleaned_training_data.csv'
 
-target = 'churn'
+target = 'fraud_ind'
 
 
 def load_cleaned_data():
