@@ -5,7 +5,7 @@
 Develop an optimal transaction fraud prevention strategy for credit card business. The goal is to minimize the total cost caused by approving a fraudulent transaction or declining a non-fraudulent transaction.
 
 ### Data: 
-30G, 90M raw credit card transaction data in 2013 with 70 features. 80M training data, 10M test data
+30G, 90M (80M training data, 10M test data) credit card transaction records in 2013 with 70 features
 
 ### Techonique used: 
 Python, R, Tableau, AWS, Logistic Regression, Desicion Tree, Random Forest, Online Learning
