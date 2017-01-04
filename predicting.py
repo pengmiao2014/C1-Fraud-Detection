@@ -2,7 +2,7 @@ import pickle
 import pandas as pd
 
 new_data_csv = 'cleaned_test_data.csv'
-target = 'churn'
+target = 'fraud_ind'
 
 
 def load_cleaned_data():
