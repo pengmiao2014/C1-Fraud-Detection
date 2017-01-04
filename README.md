@@ -12,8 +12,10 @@ Python, R, Tableau, AWS, Logistic Regression, Desicion Tree, Random Forest, Onli
 2nd/100 place in terms of savings
 
 ### Model:
-1. Construct velocity features
+1. Data exploration (not uploaded because of the NDA)
+1. Construct velocity features 
 2. Preprocess data
 3. Training and choose the optimal model to maximize the savings based on given cost matrix
+
 
 
