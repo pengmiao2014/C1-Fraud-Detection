@@ -8,11 +8,11 @@ Develop an optimal transaction fraud prevention strategy for credit card busines
 30G, 90M (80M training data, 10M test data) credit card transaction records in 2013 with 70 features
 
 ### Techonique used: 
-Python, R, Tableau, AWS, Logistic Regression, Desicion Tree, Random Forest, Online Learning
+Python, R, Tableau, AWS, Logistic Regression with Penalty, Decision Tree, Random Forest, Gradient Boosting Classifier, Online Learning
+
 
 ### Result: 
 2nd/100 place in terms of savings
-
 ### Model: 
 #### Python Version:
 1. Data exploration (not uploaded because of the NDA)
