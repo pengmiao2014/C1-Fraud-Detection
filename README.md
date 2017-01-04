@@ -1,4 +1,4 @@
-# C1 Fraud Detection Modeling Competition
+# 2016 C1 Fraud Detection Modeling Competition
 
 ### Goal: 
 Develop an optimal transaction fraud prevention strategy for credit card business. The goal is to minimize the total cost caused by approving a fraudulent transaction or declining a non-fraudulent transaction.
